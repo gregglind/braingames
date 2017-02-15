@@ -16,7 +16,9 @@ var instructions_block = {
         "<p class='small'><strong>Press the F key</strong></p></div>" +
         "<div class='right center-content'><img src='{{ gamestatic('img/orange.png') }}'></img>" +
         "<p class='small'><strong>Do not press a key</strong></p></div>" +
-        "<p>Press any key to begin.</p>",
+        "<p>Press any key to begin.</p>" +
+        "<p>Don't take this new text, it's garbage</p>",
+
     timing_post_trial: 2000
 };
 
